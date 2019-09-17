@@ -1,6 +1,6 @@
 [submodule "Log_Transformations"]
 	path = Log_Transformations
-	url = https://github.com/EducationShinyAppTeam/Log_Transformations
+	url = ../Log_Transformations
 [submodule "Data_Science_App"]
 	path = Data_Science_App
-	url = https://github.com/EducationShinyAppTeam/Data_Science_App
+	url = ../Data_Science_App
