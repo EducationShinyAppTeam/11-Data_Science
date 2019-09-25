@@ -4,3 +4,6 @@
 [submodule "Data_Science_App"]
 	path = Data_Science_App
 	url = ../Data_Science_App
+[submodule "Data_Visualization"]
+	path = Data_Visualization
+	url = ../Data_Visualization
