@@ -1,9 +1,9 @@
 [submodule "Log_Transformations"]
 	path = Log_Transformations
 	url = ../Log_Transformations
-[submodule "Data_Science_App"]
-	path = Data_Science_App
-	url = ../Data_Science_App
 [submodule "Data_Visualization"]
 	path = Data_Visualization
 	url = ../Data_Visualization
+[submodule "Data_Wrangling"]
+	path = Data_Wrangling
+	url = ../Data_Wrangling
