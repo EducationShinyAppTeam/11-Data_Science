@@ -7,3 +7,6 @@
 [submodule "Data_Wrangling"]
 	path = Data_Wrangling
 	url = ../Data_Wrangling
+[submodule "Training_vs._Testing_Dataset_Proportions"]
+	path = Training_vs._Testing_Dataset_Proportions
+	url = ../Training_vs._Testing_Dataset_Proportions
